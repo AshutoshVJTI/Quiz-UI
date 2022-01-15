@@ -51,6 +51,8 @@ img{
     border: none;
     padding: 5px;
     cursor: pointer;
+    height: 30px;
+    font-weight: 200;
 }
 
 .VCircle {
