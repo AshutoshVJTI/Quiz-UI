@@ -63,13 +63,13 @@ img{
   .RCircle {
     height: 150px;
     width: 150px;
-    background-color: rgb(255, 0, 0);
+    background-color: #b51b01;
     border-radius: 50%;
   }
 
   .YCircle {
     height: 150px;
     width: 150px;
-    background-color: rgb(251, 255, 0);
+    background-color: #fffc41;
     border-radius: 50%;
   }
